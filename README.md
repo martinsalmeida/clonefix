@@ -8,6 +8,11 @@
   <br>
 </h4>
 
+<h3 align="center">
+  <a href="https://my-cloneflix.netlify.app/">CLONEFLIX SITE</a>
+  <br>
+</h3>
+
 
 <p align="center">
   <img alt="React Cloneflix" src="https://user-images.githubusercontent.com/42298239/93095434-799c8d00-f679-11ea-82a8-270e0c9ded4f.png" />
