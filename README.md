@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido no RocketStack GoStack BootCamp utilizando as segu
 
 ```bash
 # Clone esse repository
-$ git clone https://github.com/martinsalmeida/rocketshoes.git
+$ git clone https://github.com/martinsalmeida/cloneflix.git
 
 # Entre na pasta
 $ cd cloneflix
